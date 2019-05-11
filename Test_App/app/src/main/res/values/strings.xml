@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Test_App</string>
+    <string name="action_settings">Settings</string>
+    <string name="Butt">CLICK HERE</string>
+    <string name="test">Test_App</string>
+    <string name="click">Button</string>
+</resources>
